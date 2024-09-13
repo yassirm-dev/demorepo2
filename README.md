@@ -1,4 +1,5 @@
 # My demo repo
 
 ## Some description
-Demo reporitory
+Demo reporitory description
+
